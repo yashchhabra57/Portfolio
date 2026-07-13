@@ -179,7 +179,7 @@ function App() {
             Software Engineering · Information Technology · Cybersecurity · Web Development
           </p>
           <p className="hero-sub">
-            Junior CS student building secure, full-stack systems — from real-time
+            Senior CS student building secure, full-stack systems — from real-time
             security dashboards to post-quantum cryptography research. Based in
             Superior, WI, and seeking internship opportunities in IT infrastructure and security.
           </p>
@@ -210,7 +210,7 @@ function App() {
         </div>
         <div className="about-grid">
           <p className="about-lead">
-            I'm a junior Computer Science student at the University of Wisconsin–Superior
+            I'm a Senior Computer Science student at the University of Wisconsin–Superior
             with a minor in Mathematics, graduating May 2027. I care about building things
             that are secure, reliable, and actually work in the real world.
           </p>
