@@ -71,14 +71,18 @@ const projects = [
 
 const experience = [
   {
-    role: 'Website Development & Analytics Intern',
+    role: 'Software Engineering & Website Development Intern',
     org: 'Superior Effect Marketing',
     location: 'Superior, WI',
     dates: 'Sept 2025 – Present',
     points: [
-      'Rebuilt and maintain company websites using HTML, CSS, JavaScript, and React, improving mobile responsiveness and brand consistency.',
-      'Diagnose and resolve front-end performance issues, improving load times and organic search visibility through structured content and SEO.',
-      'Apply systematic troubleshooting to resolve UI/UX inconsistencies across browsers and devices.',
+      ' Developed and debugged a lead management and CRM system on Linux-hosted infrastructure, organizing and tracking 500+
+       prospective clients while collaborating with non-technical staff to gather requirements and resolve issues.',
+      'Built a social media performance tracking tool that analyzed 10,000+ engagement data points across likes, comments, shares, follower
+       growth, and campaign performance to identify high-performing marketing content.',
+      ' Built and maintained a full-stack internal operations platform (Angular, ASP.NET, PostgreSQL), writing SQL queries for data
+       manipulation and retrieval while providing ongoing technical support to end users on clock-in/out tracking, complaint intake, and
+       task assignment features.',
     ],
   },
   {
